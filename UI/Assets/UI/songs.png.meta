@@ -1,0 +1,695 @@
+fileFormatVersion: 2
+guid: 5125e3e201f53ee49970d1c8a598a8c1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7177120436257613646
+    second: song - all
+  - first:
+      213: 2375940182999541918
+    second: song - all1
+  - first:
+      213: 5903778468385364754
+    second: song - all2
+  - first:
+      213: 4523323012214702745
+    second: song - all3
+  - first:
+      213: -6925423415269207023
+    second: song - all4
+  - first:
+      213: 8118008237286708587
+    second: song - all5
+  - first:
+      213: -4108348080861764646
+    second: song - all6
+  - first:
+      213: 7109698151508279288
+    second: song - all7
+  - first:
+      213: -3691681279182662628
+    second: song - all8
+  - first:
+      213: 858499385424052493
+    second: song - all9
+  - first:
+      213: 1748839332856247840
+    second: song - all10
+  - first:
+      213: -1191626085634644978
+    second: song - all11
+  - first:
+      213: 6673667058200703155
+    second: song - all12
+  - first:
+      213: -5819704502869172817
+    second: song - all13
+  - first:
+      213: 7090645565294605316
+    second: song - all14
+  - first:
+      213: 4432930220880959314
+    second: song - all22
+  - first:
+      213: -6918360473913710216
+    second: song - all221
+  - first:
+      213: 2996926377394767400
+    second: song - all222
+  - first:
+      213: 3508068193861681689
+    second: song - all223
+  - first:
+      213: -1234265787416074432
+    second: song - all224
+  - first:
+      213: 1475659938898490586
+    second: song - all225
+  - first:
+      213: 1492450382114388129
+    second: song - all226
+  - first:
+      213: -4764200144061483259
+    second: song - all227
+  - first:
+      213: -9194041304322280387
+    second: song - all228
+  - first:
+      213: -2668488189697870056
+    second: song - all229
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: song - all
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 1282
+        width: 602
+        height: 151
+      alignment: 9
+      pivot: {x: 0.81478405, y: 0.49337748}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b81bae3dfeb56c90800000000000000
+      internalID: -7177120436257613646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: song - all1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1282
+        width: 741
+        height: 151
+      alignment: 9
+      pivot: {x: 0.6619433, y: 0.49337748}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e98a347120909f020800000000000000
+      internalID: 2375940182999541918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: song - all2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 976
+        width: 602
+        height: 151
+      alignment: 9
+      pivot: {x: 0.81478405, y: 0.49337748}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b95b8cc3f6ee150800000000000000
+      internalID: 5903778468385364754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: song - all3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1743
+        width: 822
+        height: 151
+      alignment: 9
+      pivot: {x: 0.59671533, y: 0.49337748}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9924863605216ce30800000000000000
+      internalID: 4523323012214702745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: song - all4
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1588
+        width: 768
+        height: 151
+      alignment: 9
+      pivot: {x: 0.6386719, y: 0.49337748}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 114d4b5a814f3ef90800000000000000
+      internalID: -6925423415269207023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: song - all5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 364
+        width: 602
+        height: 151
+      alignment: 9
+      pivot: {x: 0.81478405, y: 0.49337748}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b655b231b75f8a070800000000000000
+      internalID: 8118008237286708587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: song - all6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1896
+        width: 849
+        height: 151
+      alignment: 9
+      pivot: {x: 0.5777385, y: 0.49337748}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad3a39aff273cf6c0800000000000000
+      internalID: -4108348080861764646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: song - all7
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1896
+        width: 829
+        height: 151
+      alignment: 9
+      pivot: {x: 0.5916767, y: 0.49337748}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fff6ecccc8baa260800000000000000
+      internalID: 7109698151508279288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: song - all8
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1435
+        width: 756
+        height: 151
+      alignment: 9
+      pivot: {x: 0.64880955, y: 0.49337748}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c149b5a9f6384ccc0800000000000000
+      internalID: -3691681279182662628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: song - all9
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 1129
+        width: 631
+        height: 151
+      alignment: 9
+      pivot: {x: 0.77733755, y: 0.49337748}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d01871c74a00aeb00800000000000000
+      internalID: 858499385424052493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: song - all10
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 1129
+        width: 671
+        height: 151
+      alignment: 9
+      pivot: {x: 0.7309985, y: 0.49337748}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 026b0248b10254810800000000000000
+      internalID: 1748839332856247840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: song - all11
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 1129
+        width: 671
+        height: 151
+      alignment: 9
+      pivot: {x: 0.7309985, y: 0.49337748}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0468ac736e767fe0800000000000000
+      internalID: -1191626085634644978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: song - all12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1129
+        width: 679
+        height: 151
+      alignment: 9
+      pivot: {x: 0.7223859, y: 0.49337748}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b07741b4d0ad9c50800000000000000
+      internalID: 6673667058200703155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: song - all13
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1435
+        width: 765
+        height: 151
+      alignment: 9
+      pivot: {x: 0.64117646, y: 0.49337748}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fadddb8b6914c3fa0800000000000000
+      internalID: -5819704502869172817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: song - all22
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 1741
+        width: 817
+        height: 153
+      alignment: 9
+      pivot: {x: 0.6003672, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25714b99c8ee48d30800000000000000
+      internalID: 4432930220880959314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: song - all221
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1282
+        width: 698
+        height: 151
+      alignment: 9
+      pivot: {x: 0.7027221, y: 0.49337748}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8792544ddcb0dff90800000000000000
+      internalID: -6918360473913710216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: song - all222
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 823
+        width: 602
+        height: 151
+      alignment: 9
+      pivot: {x: 0.81478405, y: 0.49337748}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8260d9e69a8379920800000000000000
+      internalID: 2996926377394767400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: song - all223
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 670
+        width: 602
+        height: 151
+      alignment: 9
+      pivot: {x: 0.81478405, y: 0.49337748}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 912c8fe8f692fa030800000000000000
+      internalID: 3508068193861681689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: song - all224
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 1743
+        width: 374
+        height: 151
+      alignment: 9
+      pivot: {x: 1.3114973, y: 0.49337748}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 047a5a64ec10fdee0800000000000000
+      internalID: -1234265787416074432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: song - all225
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 517
+        width: 602
+        height: 151
+      alignment: 9
+      pivot: {x: 0.81478405, y: 0.49337748}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad4b15365e89a7410800000000000000
+      internalID: 1475659938898490586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: song - all226
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 1588
+        width: 420
+        height: 151
+      alignment: 9
+      pivot: {x: 1.1678572, y: 0.49337748}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a8f2d617bf36b410800000000000000
+      internalID: 1492450382114388129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: song - all227
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1588
+        width: 807
+        height: 153
+      alignment: 9
+      pivot: {x: 0.6078067, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 507b956f53922edb0800000000000000
+      internalID: -4764200144061483259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: song - all228
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 1435
+        width: 498
+        height: 151
+      alignment: 9
+      pivot: {x: 0.98493975, y: 0.49337748}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d34f9955524386080800000000000000
+      internalID: -9194041304322280387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: song - all229
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 211
+        width: 572
+        height: 151
+      alignment: 9
+      pivot: {x: 0.8575175, y: 0.49337748}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 817bbb53120a7fad0800000000000000
+      internalID: -2668488189697870056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

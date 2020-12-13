@@ -1,0 +1,1100 @@
+fileFormatVersion: 2
+guid: 4dc02df9684c17d418e573ccf0728010
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7949811142487204023
+    second: icons8-70s-music-100
+  - first:
+      213: -2668742827805325592
+    second: icons8-add-song-100
+  - first:
+      213: 7858334345568322658
+    second: icons8-audio-50
+  - first:
+      213: 5049938080574168344
+    second: icons8-back-50
+  - first:
+      213: 8609629195178155456
+    second: icons8-back-50white
+  - first:
+      213: -5173661249957145931
+    second: icons8-blues-100
+  - first:
+      213: 7357126680930847891
+    second: icons8-browse-podcasts-100
+  - first:
+      213: 3322998979991688667
+    second: icons8-concert-100
+  - first:
+      213: -5346979067388364100
+    second: icons8-disco-ball-100
+  - first:
+      213: -6987166085338427788
+    second: icons8-electronic-music-100
+  - first:
+      213: 8312838992667871901
+    second: icons8-end-50
+  - first:
+      213: -6465402929542862018
+    second: icons8-grand-piano-100
+  - first:
+      213: 204871206485511387
+    second: icons8-guitar-strings-100
+  - first:
+      213: 2390023302791285148
+    second: icons8-heart-50
+  - first:
+      213: -3725827815204620881
+    second: icons8-heart-50FILL
+  - first:
+      213: -4706400883404105754
+    second: icons8-heart-50WHITEFILL
+  - first:
+      213: -1510270827551548119
+    second: icons8-home-50
+  - first:
+      213: -8981002232952385090
+    second: icons8-initial-state-100
+  - first:
+      213: 4365334290392927872
+    second: icons8-listening-to-music-on-headphones-100
+  - first:
+      213: -6894437664254997897
+    second: icons8-menu-50
+  - first:
+      213: 4075361515689159523
+    second: icons8-menu-vertical-50
+  - first:
+      213: -8985137162395212525
+    second: icons8-menu-vertical-50WHITEFILL
+  - first:
+      213: -1632838396984101126
+    second: icons8-micro-100
+  - first:
+      213: 1994681675398676143
+    second: icons8-music-50
+  - first:
+      213: 2586294649695283050
+    second: icons8-music-record-100
+  - first:
+      213: -8634777413330828869
+    second: icons8-opened-folder-50
+  - first:
+      213: -6862359890555730030
+    second: icons8-pause-50
+  - first:
+      213: 7459723501804868189
+    second: icons8-pause-50FILL
+  - first:
+      213: -5147995795017999300
+    second: icons8-playlist-100-2
+  - first:
+      213: 2123728531218210376
+    second: icons8-playlist-100
+  - first:
+      213: 8740819435969736031
+    second: icons8-repeat-50
+  - first:
+      213: 7753608290027719000
+    second: icons8-rock-music-100
+  - first:
+      213: -6844252395631907427
+    second: icons8-santa-100
+  - first:
+      213: -5889485696119955583
+    second: icons8-search-more-50empt
+  - first:
+      213: 3850180339085709014
+    second: icons8-settings-50
+  - first:
+      213: -1139899950957714972
+    second: icons8-share-100
+  - first:
+      213: -7730160133832309822
+    second: icons8-shuffle-50
+  - first:
+      213: 4034502656828837338
+    second: icons8-skip-to-start-50
+  - first:
+      213: -7087672627431566156
+    second: unknown (1)
+  - first:
+      213: -576322373677255487
+    second: "\u0411\u0435\u0437\u044B\u043C\u044F\u043D\u043D\u044B\u0439-2"
+  - first:
+      213: 245840487201636487
+    second: "\u0411\u0435\u0437\u044B\u043C\u044F\u043D\u043D\u044B\u0439574747-1"
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: icons8-70s-music-100
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 241
+        width: 97
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5154639, y: 0.5263158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b0646b3d17635e60800000000000000
+      internalID: 7949811142487204023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons8-add-song-100
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 411
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e6cac7a988b6fad0800000000000000
+      internalID: -2668742827805325592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons8-audio-50
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 246
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2640ad9b3796e0d60800000000000000
+      internalID: 7858334345568322658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons8-back-50
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 194
+        width: 29
+        height: 44
+      alignment: 9
+      pivot: {x: 0.41379312, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d5756bdebf41640800000000000000
+      internalID: 5049938080574168344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons8-back-50white
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 148
+        width: 29
+        height: 44
+      alignment: 9
+      pivot: {x: 0.41379312, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd1d62232c8b7770800000000000000
+      internalID: 8609629195178155456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons8-blues-100
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 144
+        width: 95
+        height: 95
+      alignment: 9
+      pivot: {x: 0.49473685, y: 0.49473685}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b2d91021867338b0800000000000000
+      internalID: -5173661249957145931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons8-browse-podcasts-100
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 157
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39c8e609cb3c91660800000000000000
+      internalID: 7357126680930847891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons8-concert-100
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 358
+        width: 100
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47435898}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd5d36f57f9ad1e20800000000000000
+      internalID: 3322998979991688667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons8-disco-ball-100
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 100
+        width: 83
+        height: 97
+      alignment: 9
+      pivot: {x: 0.43373495, y: 0.5154639}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbafdd22ed6bbc5b0800000000000000
+      internalID: -5346979067388364100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons8-electronic-music-100
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 49
+        width: 90
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e0fb80779980f90800000000000000
+      internalID: -6987166085338427788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons8-end-50
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 278
+        width: 31
+        height: 36
+      alignment: 9
+      pivot: {x: 0.48387095, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a0cf045032d5370800000000000000
+      internalID: 8312838992667871901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons8-grand-piano-100
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 143
+        width: 95
+        height: 95
+      alignment: 9
+      pivot: {x: 0.50526315, y: 0.47368422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3be3de6a464646a0800000000000000
+      internalID: -6465402929542862018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons8-guitar-strings-100
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 294
+        width: 73
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5479452, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdc464fd649d7d200800000000000000
+      internalID: 204871206485511387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons8-heart-50
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 3
+        width: 49
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5102041, y: 0.5681818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c99c7cfe7811b2120800000000000000
+      internalID: 2390023302791285148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons8-heart-50FILL
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 3
+        width: 49
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5102041, y: 0.5681818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa57574a7533b4cc0800000000000000
+      internalID: -3725827815204620881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons8-heart-50WHITEFILL
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 3
+        width: 49
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5102041, y: 0.5681818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e71d1605518faeb0800000000000000
+      internalID: -4706400883404105754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons8-home-50
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 411
+        width: 50
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47916666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92d97212fa07a0be0800000000000000
+      internalID: -1510270827551548119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons8-initial-state-100
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 310
+        width: 97
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5154639, y: 0.5050505}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb112e17d021d5380800000000000000
+      internalID: -8981002232952385090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons8-listening-to-music-on-headphones-100
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 240
+        width: 96
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5104167, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ec3b89868c49c30800000000000000
+      internalID: 4365334290392927872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons8-menu-50
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 13
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ac10009790250a0800000000000000
+      internalID: -6894437664254997897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons8-menu-vertical-50
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 465
+        width: 14
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b23f1d4b79e8830800000000000000
+      internalID: 4075361515689159523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons8-menu-vertical-50WHITEFILL
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 417
+        width: 14
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 315a5492b516e4380800000000000000
+      internalID: -8985137162395212525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons8-micro-100
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 55
+        width: 91
+        height: 100
+      alignment: 9
+      pivot: {x: 0.48351648, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af6f42c012ef659e0800000000000000
+      internalID: -1632838396984101126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons8-music-50
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 316
+        width: 31
+        height: 40
+      alignment: 9
+      pivot: {x: 0.4516129, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fae7e1e5a688eab10800000000000000
+      internalID: 1994681675398676143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons8-music-record-100
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 257
+        width: 97
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5154639, y: 0.5050505}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a67a497f74d54e320800000000000000
+      internalID: 2586294649695283050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons8-opened-folder-50
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 199
+        width: 50
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51111114}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb189db01bb1b2880800000000000000
+      internalID: -8634777413330828869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons8-pause-50
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 400
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2978982b90004c0a0800000000000000
+      internalID: -6862359890555730030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons8-pause-50FILL
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 362
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5256b76003468760800000000000000
+      internalID: 7459723501804868189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons8-playlist-100-2
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 55
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c5fb48915ae88b0800000000000000
+      internalID: -5147995795017999300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons8-playlist-100
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 133
+        width: 95
+        height: 75
+      alignment: 9
+      pivot: {x: 0.49473685, y: 0.53333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e9f9ed8dff87d10800000000000000
+      internalID: 2123728531218210376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons8-repeat-50
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 99
+        width: 39
+        height: 47
+      alignment: 9
+      pivot: {x: 0.51282054, y: 0.4680851}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5d6ec657f0ad4970800000000000000
+      internalID: 8740819435969736031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons8-rock-music-100
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 338
+        width: 100
+        height: 98
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5102041}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85940aec8a95a9b60800000000000000
+      internalID: 7753608290027719000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons8-santa-100
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 210
+        width: 97
+        height: 98
+      alignment: 9
+      pivot: {x: 0.48453608, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9d6e3565b45401a0800000000000000
+      internalID: -6844252395631907427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons8-search-more-50empt
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 461
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f960596f7544ea0800000000000000
+      internalID: -5889485696119955583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons8-settings-50
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 5
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6de85688e969e6530800000000000000
+      internalID: 3850180339085709014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons8-share-100
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 336
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e12ea7b8034e20f0800000000000000
+      internalID: -1139899950957714972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons8-shuffle-50
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 2
+        width: 37
+        height: 45
+      alignment: 9
+      pivot: {x: 0.4864865, y: 0.53333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c30a0e7054f8b490800000000000000
+      internalID: -7730160133832309822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons8-skip-to-start-50
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 240
+        width: 31
+        height: 36
+      alignment: 9
+      pivot: {x: 0.516129, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: add07a96ace6df730800000000000000
+      internalID: 4034502656828837338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unknown (1)
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 89
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b49ea52c4783ad90800000000000000
+      internalID: -7087672627431566156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0411\u0435\u0437\u044B\u043C\u044F\u043D\u043D\u044B\u0439-2"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 438
+        width: 334
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c47bd8cadd7008f0800000000000000
+      internalID: -576322373677255487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0411\u0435\u0437\u044B\u043C\u044F\u043D\u043D\u044B\u0439574747-1"
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 396
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 780001fde96696300800000000000000
+      internalID: 245840487201636487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
